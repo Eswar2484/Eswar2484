@@ -30,7 +30,7 @@
 
 | **Project**                                    | **Description**                            | **Technologies**               |
 |------------------------------------------------|--------------------------------------------|---------------------------------|
-| [Realtime chat app](https://github.com/Eswar2484/projects) | A real-time chat application.              | PHP, MySQL                     |
+| [Realtime chat app](https://github.com/Eswar2484/Project) | A real-time chat application.              | PHP, MySQL                     |
 
 ---
 
